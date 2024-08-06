@@ -5,5 +5,4 @@ async def fetch_dta():
     await asyncio.sleep(2)
     print('done fetching')
     return {'data' : 1}
-async def print_numbers():
-    for t in range(10)
+async def print_numbers():()
